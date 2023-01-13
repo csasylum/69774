@@ -1,0 +1,45 @@
+{
+    "generated": "2023/01/13 00:28:55",
+    "version": "3.02",
+    "data": {
+        "title": "Nature's invitation",
+        "contributor": [
+            {
+                "name": "Bradford Torrey",
+                "role": "author"
+            },
+            {
+                "name": "",
+                "role": ""
+            },
+            {
+                "name": "",
+                "role": ""
+            },
+            {
+                "name": "",
+                "role": ""
+            },
+            {
+                "name": "",
+                "role": ""
+            }
+        ],
+        "scans_archive_url": [
+            "https://archive.org/details/naturesinvitatio00torrrich"
+        ],
+        "credit": "Emmanuel Ackerman, David E. Brown, and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)",
+        "language": "English",
+        "publisher": "",
+        "publisher_country": "us",
+        "source_publication_years": [
+            "copyright:1904"
+        ],
+        "release_date": "",
+        "copyrighted_work": false,
+        "ww": "rfrank@rfrank.net",
+        "request_key": "20210501015405torrey",
+        "ebook_number": "69774",
+        "subtitle": "Notes of a bird-gazer, North and South"
+    }
+}
